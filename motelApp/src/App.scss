@@ -1,0 +1,17 @@
+@import "~bootstrap/scss/bootstrap";
+/*.custom-nav {
+  justify-content: "flex-end!important";
+}*/
+.navbar-logo-container {
+  display: flex;
+  align-items: center;
+  margin-right: auto;
+  margin-left: 0;
+}
+
+.navbar-logo {
+  width: 150px; /* Adjust the width as needed */
+  height: auto;
+  margin: 0%;
+  padding: 0%;
+}
